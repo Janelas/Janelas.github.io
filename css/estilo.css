@@ -1,0 +1,95 @@
+* {
+	box-sizing: border-box;
+}
+
+body {
+	background-color: #151515;
+	margin: auto;
+	min-height: 100%
+}
+
+
+html{
+	height: 100%
+}
+
+img{
+    display: flex;
+    position: absolute;
+}
+
+.barra-ferramentas, .iniciar{
+    margin-top: 462px;
+}
+
+.menu{
+    margin-top: 130px;
+}
+
+.icones{
+    position: absolute;
+    margin-top: 70px;
+    padding-left: 30px;
+}
+
+.icones img {
+    display: inline;
+    margin-right: 50px;
+    position: relative;
+}
+
+.menu-icones {
+    position: absolute;
+    margin-top: 180px;
+    margin-left: 10px;
+}
+
+.menu-icones img {
+    position: relative;
+    display: block;
+    margin-bottom: 10px;
+}
+
+.fechar {
+    margin-top: 437px;
+    margin-left: 155px;
+}
+
+.mensageiro-login {
+    margin-top: 31px;
+    margin-left: 389px;
+}
+
+.mensageiro-botao {
+    margin-top: 284px;
+    margin-left: 467px;
+}
+
+.mensageiro-popup {
+    margin-top: 147px;
+    margin-left: 85px;
+}
+
+.mensageiro-ok {
+    margin-top: 216px;
+    margin-left: 271px;
+}
+
+.mensageiro-ajuda {
+    margin-top: 215px;
+    margin-left: 328px;
+}
+
+.mensageiro-fechar {
+    margin-top: 36px;
+    margin-left: 594px;
+}
+
+.mensageiro-popup-fechar {
+    margin-top: 150px;
+    margin-left: 548px;
+}
+
+
+
+
