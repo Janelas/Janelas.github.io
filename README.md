@@ -1,1 +1,3 @@
-# janelas.github.io é um projeto de estudantes de artes visuais
+# Janelas
+
+Janelas é um projeto de graduação de estudantes de artes visuais.
