@@ -14,11 +14,23 @@
 	        <main>
 			
                 <a href="area_trabalho.html">    
-                    <img src="imagens/tela_usuario.png"/>
+					<img src="imagens/tela_usuario.png" usemap="#fecharjanelas" id="img_telausuario" alt=""/>
+					<map name="fecharjanelas">
+						<area shape="rect" coords="0, 406, 232, 458" href="index.html" title="?"/>
+					</map>
+					
+
+					
                 </a>
                 
             </main>
 
-        </div>   
+		</div>
+		<!-- scripts para redimensionamento responsivo dos mapas de imagem, que por enquanto são desnecessários -->
+		<!--
+		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
+		<script src="imageMapResizer.min.js"></script>
+		<script>$(document).ready(function(e){$("map").imageMapResize();});</script>
+		-->
 	</body>
 </html>
