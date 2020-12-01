@@ -16,6 +16,10 @@ body {
     
 }
 
+a {
+    text-decoration: none;
+}
+
 .container {
     /* CENTRALIZAR*/
     margin:auto; 
@@ -121,6 +125,8 @@ img{
     margin-top: 255px;
     margin-left: 410px;
 }
+
+
 
 
 
