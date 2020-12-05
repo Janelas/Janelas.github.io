@@ -144,4 +144,24 @@ img{
     height: auto;
 }
 
+.img_suporte {
+    margin-top: 200px;
+    margin-left: 187px;;
+    display: flex;
+    position: absolute;
+}
 
+.interface-internet{
+    margin-top: 31px;
+    margin-left: 72px;
+}
+
+.pasta-desenhos, .pasta-caderno {
+    margin-top: 81px;
+    margin-left: 33px;
+}
+
+.pasta-adulto{
+    margin-top: 81px;
+    margin-left: 188px;
+}
