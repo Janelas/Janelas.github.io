@@ -175,3 +175,20 @@ img{
     margin-top: 110px;
     margin-left: 80px;
 }
+
+.palavra {
+    margin-top: 50px;
+    margin-left: 70px;
+}
+
+.palavra_adulto {
+    margin-top: 50px;
+    margin-left: 20px;
+}
+
+.assistente_palavra_adulto {
+    margin-left: 432px;
+    margin-top: 173px;
+    max-width: 126px;
+    height: auto;
+}
